@@ -1,5 +1,7 @@
 ---
 layout: index_page
 title: Home
+published: true
 ---
-This is the personal page of Kira Kiesman. Content to come. Or something.
+
+Content to come. Or something.
