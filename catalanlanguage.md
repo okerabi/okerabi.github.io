@@ -13,6 +13,7 @@ You can find some direct comparisons of several common words within the Western 
 As far as grammar, Catalan uses the masculine and feminine genders.
 
 If you are interested in learning Catalan, I recommend these websites:
+
 * [Parla.cat](http://www.parla.cat/)
 * [Livemocha](http://livemocha.com/pages/languages/learn-catalan/)
 * [interc@t](http://www.intercat.cat/speakcat/)
